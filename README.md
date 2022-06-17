@@ -24,7 +24,7 @@ truffle migrate
 ```
 
 
-N.B: Incase you migrate before
+N.B: Incase you migrated before
 ```
 truffle migrate --reset
 ```
